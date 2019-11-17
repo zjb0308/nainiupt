@@ -1,16 +1,1 @@
-server:
-  port: 3344
-
-spring:
-  application:
-    name: config-server
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/zjb0308/nainiupt
-          username: zjb_0308@163.com
-          password: Nasadmin123!
-          searchPaths: infomation
-          clone-on-start: true
-          force-pull: true
+测试1
